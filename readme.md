@@ -1,1 +1,1 @@
-## Laravel Netflix Course
+## Laravel - Netflix Course
